@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: #ffff;
+}
+
+img {
+    width: 150px;
+    border-radius: 150px;
+}
+
+h1 {
+    font-family: 'Potta One', cursive;
+    color: aqua;
+}
+
+h2 {
+    color: blue;
+    font-family: serif;
+}
+
+p {
+    text-align: center;
+    font-family: monospace;
+}
+
+#video1 {
+    width: 700px;
+}
+#video2 {
+    width: 700px;
+}
+#video3 {
+    width: 700px;
+}
+center{
+position: fixed;
+background: white;
+width: 100%;
+margin-top: 0px;
+top: 0px;
+z-index: 10;
+}
+.li{
+
+}
